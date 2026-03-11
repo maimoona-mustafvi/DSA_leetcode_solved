@@ -20,10 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +34,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
