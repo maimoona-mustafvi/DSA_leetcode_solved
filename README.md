@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -40,8 +41,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/maimoona-mustafvi/DSA_leetcode_solved/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
